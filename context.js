@@ -19,8 +19,15 @@
 */
   
 
-//Code Here
-
+let user = {
+  username: '',
+  email: '',
+  getUsername:{
+    function(){
+      user.this.getUsername
+    }
+  }
+}
 
 
 ////////// PROBLEM 2 //////////
